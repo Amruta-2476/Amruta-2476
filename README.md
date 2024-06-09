@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Amruta Pawar</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<p>I am pursuing B.Tech in Artificial Intelligence and Data Science</p>
+<p>🏫 I am pursuing B.Tech in Artificial Intelligence and Data Science</p>
 
 - 🔭 I’m currently working on **HealthConnect**
 
