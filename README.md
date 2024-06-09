@@ -19,8 +19,8 @@
 
 ---
 <p align="center">
-    <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Amruta-2476&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" />
-    <img width="350" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amruta-2476&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact" />
+    <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=amruta-2476&show_icons=true&theme=chartreuse-dark&locale=en" alt="amruta-2476" />
+    <img width="350" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=amruta-2476&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact" alt="amruta-2476" />
 </p>
 <p align="center">
     <img width="1000" height="230" src="https://github-readme-streak-stats.herokuapp.com/?user=Amruta-2476&theme=chartreuse-dark&hide_border=true&card_width=900" />
@@ -29,5 +29,5 @@
 ---
 
 <div align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=amruta-2476&label=Profile%20views&color=008FD1&style=for-the-badge" alt="amruta-2476" /> 
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amruta-2476&theme=chartreuse-dark" alt="amruta-2476" /> 
 </div>
