@@ -29,5 +29,5 @@
 ---
 
 <div align="center"> 
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amruta-2476&theme=chartreuse-dark" alt="amruta-2476" /> 
+     <img src="https://komarev.com/ghpvc/?username=amruta-2476&label=Profile%20views&color=008FD1&style=for-the-badge" alt="amruta-2476" /> 
 </div>
