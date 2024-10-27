@@ -3,7 +3,7 @@
 
 - 🏫 I am pursuing B.Tech in Artificial Intelligence and Data Science
 
-- 🔭 I’m currently working on **HealthConnect**
+- 🔭 I’m currently working on **HealthBuddy**
 
 - 🌱 I’m currently learning **React, NextJS**
 
