@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Amruta Pawar</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate developer</h3>
 
 - 🏫 I am pursuing B.Tech in Artificial Intelligence and Data Science
 
