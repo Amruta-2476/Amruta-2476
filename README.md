@@ -1,6 +1,6 @@
 # Hello 👋, I'm Amruta Pawar
 
-<img align="right" width=300px alt="Unicorn" src="https://github.com/user-attachments/assets/cf3b95d6-7889-47cf-9456-ce0c96c664d5" />
+<img align="right" width=350px alt="Unicorn" src="https://github.com/user-attachments/assets/cf3b95d6-7889-47cf-9456-ce0c96c664d5" />
 
 🎓 I am a final year B.Tech undergraduate in **Artificial Intelligence and Data Science**  
 🤖 Passionate about **AI/ML** and currently exploring and building machine learning projects  
