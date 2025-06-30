@@ -41,9 +41,9 @@
 
 ---
 <p align="center">
-    <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=amruta-2476&show_icons=true&theme=chartreuse-dark&locale=en" alt="amruta-2476" />
+    <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=amruta-2476&show_icons=true&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false" alt="amruta-2476" />
     <img width="350" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=amruta-2476&show_icons=true&theme=chartreuse-dark&locale=en&layout=compact" alt="amruta-2476" />
-    <img width="1000" height="230" src="https://github-readme-streak-stats.herokuapp.com/?user=amruta-2476&theme=chartreuse-dark&card_width=900" alt="amruta-2476" />
+    <img width="900" height="230" src="https://github-readme-streak-stats.herokuapp.com/?user=amruta-2476&theme=chartreuse-dark&card_width=900" alt="amruta-2476" />
 </p>
 
 ---
