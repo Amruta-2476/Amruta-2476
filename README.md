@@ -1,6 +1,6 @@
 # Hello 👋, I'm Amruta Pawar
 
-<img align="right" width=300px alt="Unicorn" src="https://github.com/user-attachments/assets/cf3b95d6-7889-47cf-9456-ce0c96c664d5" />
+<img align="right" width=350px alt="Unicorn" src="https://github.com/user-attachments/assets/cf3b95d6-7889-47cf-9456-ce0c96c664d5" />
 
 🎓 I am a final year B.Tech undergraduate in **Artificial Intelligence and Data Science**  
 🤖 Passionate about **AI/ML** and currently exploring and building machine learning projects  
@@ -37,7 +37,6 @@
   <a href="https://figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 </p>
-
 
 
 ---
