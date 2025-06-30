@@ -6,11 +6,6 @@
 📫 Reach out to me at: **amrutapawar004@gmail.com**
 
 ---
-<h3 align="left">Connect with me on:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/amruta-pawar-7530ba264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amruta pawar" height="40" width="40" /></a> 
-
----
 <h3 align="left">Languages and Tools:</h3>
 <!-- <p align="left"> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a> 
